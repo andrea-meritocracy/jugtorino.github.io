@@ -13,6 +13,37 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Date:** 07/07/2020   
+**Company:** NTT DATA ITALIA   
+**Location:** Rome (Italy)   
+**Title**: Software Developer Java Microservizi   
+**Contact**: https://meritocracy.is/it/ntt-data-italia-s-p-a/software-developer-engineer-java-microservizi-milanoroma-37427?utm_source=github_jugtorino&utm_medium=referral&utm_campaign=ntt_data_software_developer_engineer_java_microservizi   
+
+NTT DATA, Trusted Global Innovator, è il partner per servizi e soluzioni IT dedicato ai clienti in tutto il mondo. Garantisce servizi IT innovativi e di prima qualità con un impegno a lungo termine. E' uno dei principali player a livello mondiale in ambito IT services. Con sede a Tokyo e 118.000 professionisti in oltre 50 paesi nel mondo, di cui oltre 3.000 solo in Italia, fornisce servizi e soluzioni IT diversificati che includono consulenza, system integration e outsourcing. I settori in cui opera sono: Automotive, Servizi bancari e finanziari, Energia e Utilities, Assicurativo, Manufacturing, Media e Intrattenimento, Pubblica Amministrazione, Retail, Telecomunicazioni, Trasporto e Logistica.
+
+Una realtà in cui gli elementi della cultura giapponese si sposano con quelli europei, creando un ambiente multiculturale, dove perfezione, tecnologia, collaborazione si amalgamano perfettamente.
+
+Responsibilities
+
+
+Il candidato individuato sarà inserito all’interno della Service Line Application Development. La persona opererà all’interno del team di sviluppo con competenze Java e soluzioni con MicroServices Architecture e lavorerà in contesti multidisciplinari, interagendo con altri team all'interno dell'azienda.
+
+
+
+Required Skills
+
+
+Percorso di studi ad alto contenuto tecnologico (es. Laurea in scienze dell'informazione, Ingegneria Informatica) o scientifico (matematica o fisica)
+Esperienza di almeno 2-3 anni in ruolo analogo
+Ottima conoscenza del linguaggio Java
+Ottima conoscenza del framework Spring Cloud e Spring Boot
+Ottima conoscenza di librerie e framework quali Redis, Kafka, Hazelcast, Hibernate, JPA
+Ottima conoscenza di architetture a microservizi e cloud-ready
+Ottima Conoscenza di ambienti IaaS e PaaS con container e container orchestration
+Ottima conoscenza del paradigma REST per l'implementazione e fruizione di servizi
+Conoscenza di protocollo SOAP e di WSDL per la fruizione di servizi
+-
+Location: Roma
 
 **Date:** 05/11/2019   
 **Company:** AZINIT   
